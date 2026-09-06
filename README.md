@@ -30,9 +30,9 @@ I am currently scaling my knowledge of server-side logic and database architectu
 | **[Employee Management System](https://github.com/mohammadshagilkhurshid/Management-System.git)** | Engineered a role-based dashboard for task assignment and tracking. Managed complex nested state globally using React Context API and implemented session persistence. | React.js, Context API, Tailwind |
 | **[AI Chatbot Interface](YOUR_GITHUB_LINK_HERE)** | Developed a responsive UI integrated with the official Google Gemini API to process asynchronous requests and manage persistent, filterable chat history without mutating state. | React.js, REST APIs, CSS |
 
-### GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadshagilkhurshid&show_icons=true&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadshagilkhurshid&layout=compact&hide_border=true" alt="Top Languages" height="150" />
-</div>
+<!-- <p align="left"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mohammadshagilkhurshid&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadshagilkhurshid&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
+<!-- </p> -->
+
